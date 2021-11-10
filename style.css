@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    color: darkgoldenrod;
+}
+.btn{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btn-settings{
+    border-style:outset;
+    border-radius: 5px;
+    background-color: bisque;
+}
+h3,h4{
+    color: crimson;
+}
+.container{
+    padding: 10px;
+}
+.post-box{
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(144, 144, 202);
+    border-radius: 5px;
+}
